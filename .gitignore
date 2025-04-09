@@ -3,7 +3,7 @@
 !.1024
 .breakpoints
 
-# Node.js dependencies
+# Node.js dependenciesss
 node_modules/
 
 # Logs
